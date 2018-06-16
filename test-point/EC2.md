@@ -18,9 +18,10 @@
   - [X] Instance Storeは停止ができない。
   - [X] AMIは指定したregionのみで使用できる。
   - [X] 暗号化
-  - [X] 暗号化されたAMIはprivateとなり、他のアカウントと共有することができない。
+  - [X] 暗号化されたAMIはprivateとなり、他のアカウントと共有することができない
+  - [ ] サイズ制限、EBS 16TB、Instance 10GB
 - [ ] 基盤にしているソフトウェアは Xen
-- [ ] Placement group
+- [X] Placement group
 - [ ] Amazon Instance Store/EBS-backed instance
 - [ ] Security 
   - [ ] EC2 Key Pairs
