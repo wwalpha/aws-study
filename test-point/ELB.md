@@ -2,6 +2,8 @@
 抽象化されたロードバランサーサービス
 
 ## Point
+- [ ] アイドルタイムアウト
+  - [ ] 60 秒
 - [X] EC2,ELB,RDSをMulti AZ配置すると可用性が高いMulti-Datacenter patternとか
   - [X] http://en.clouddesignpattern.org/index.php/CDP:Multi-Datacenter%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3
 - [X] ヘルスチェックについて
