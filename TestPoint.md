@@ -1,13 +1,13 @@
 # Test Point
 - [ ] [Aurora.md](./test-point/Aurora.md)
 
-- [ ] [AutoScaling.md](./test-point/AutoScaling.md)
+- [X] [AutoScaling.md](./test-point/AutoScaling.md)
 
 - [ ] [CloudFormation.md](./test-point/CloudFormation.md)
 
 - [X] [CloudFront.md](./test-point/CloudFront.md)
 
-- [ ] [CloudTrail.md](./test-point/CloudTrail.md)
+- [X] [CloudTrail.md](./test-point/CloudTrail.md)
 
 - [ ] [CloudWatch.md](./test-point/CloudWatch.md)
 
