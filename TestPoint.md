@@ -13,7 +13,7 @@
 
 - [ ] [Config.md](./test-point/Config.md)
 
-- [ ] [DirectConnect.md](./test-point/DirectConnect.md)
+- [X] [DirectConnect.md](./test-point/DirectConnect.md)
 
 - [ ] [DirectoryService.md](./test-point/DirectoryService.md)
 
