@@ -1,3 +1,5 @@
+https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+
 ### Amazon Elastic Block Store (Amazon EBS) Limits
 
 Resource|Default Limit
